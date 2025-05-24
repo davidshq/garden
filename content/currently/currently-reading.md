@@ -11,6 +11,8 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Sue Johnson. Hold Me Tight.
 - Steve Silberman. NeuroTribes: The Legacy of Autism and the Future of Neurodiversity.
 - Anne Wilson Schaef. Meditations for People Who May Worry Too Much.
+- Ernest Kurtz, Katherine Ketcham. The Spirituality of Imperfection: Storytelling and the Search for Meaning.
+
 
 ## Reading.
 - Neil Gaiman. Norse Mythology.
@@ -21,6 +23,7 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Chris Harman. A People's History of the World.
 - Tim Weiner. Legacy of Ashes: The History of the CIA.
 - Chip Huyen. AI Engineering.
+- C. Alexander Simpkins, Annellen Simpkins. Simple Taoism: A Guide to Living in Balance.
 
 ## Slowish
 - Rumi. A Year with Rumi.
