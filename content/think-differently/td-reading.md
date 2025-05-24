@@ -28,3 +28,30 @@ Short biographical entries on various amazing women who lived and did things dur
 - H.W. Brands. The Money Men: Capitalism, Democracy, and the Hundred Years' War Over the American Dollar.
 - Fritjof Capra. The Web of Life: A New Scienific Understanding of Living Systems.
 - Aldous Huxley. Brave New World.
+- Philip K. Dick. The VALIS Trilogy.
+- James Reston Jr. Warriors of God: Richard the Lionheart and Saladin in the Third Crusade.
+- Julian Baggini. Great Thinkers A-Z.
+- Roger Crowley. 1453: The Holy War for Constantinople and the Clash of Islam and the West.
+- Anthony Summers. Official and Confidential: The Secret Life of J. Edgar Hoover.
+- Steve Alten. Meg.
+- Patricia C. Click. Time Full of Trial: The Roanoke Island Freedmen's Colony, 1862-1867.
+- Hunter S. Thompson. Hell's Angels: A Strange and Terrible Saga.
+- Douglas Preston. The Monster of Florence.
+- Linus Torvalds. Just for Fun: The Story of an Accidental Revolutionary.
+- John Howard Griffin. Black Like Me.
+- Garth Lean. On the Tail of a Comet: The Life of Frank Buchman.
+- Alvin S. Felzenberg. The Leaders We Deserved (and a Few We Didn't): Rethinking hte Presidential Ranking Game.
+- Fyodor Dostoevsky. Crime and Punishment.
+- Gilgamesh: A Verse Narrative.
+- Edwin A. Abbott. Flatland: A Romance of Many Dimensions.
+- Catherine Clinton. Mrs. Lincoln: A Life.
+- Hallie Rubenhold. The Lady in Red: An Eighteenth-Century Tale of Sex, Scandal, and Divorce.
+- Gary Bobroff. Knowledge in a Nutshell: Carl Jung.
+- William L. Shirer. Love and Hatred: The Troubled Marriage of Leo and Sonya Tolstoy.
+- Johan Huizinga. Erasmus and the Age of Reformation.
+- William Styron. Darkness Visible: A Memoir of Madness.
+- James Gleick. Isaac Newton.
+- Carl Jung. 
+    - Memories, Dreams, Reflections.
+    - Man and His Symbols.
+    - Answer to Job.

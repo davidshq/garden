@@ -5,4 +5,17 @@
     - It's Not Hansel and Gretel.
     - It's Not Little Red Riding Hood.
 - Jory John.
-    - The Good Egge.
+    - The Good Egg.
+    - The Bad Seed.
+- John White. Archives of Anthropos.
+- C.S. Lewis. The Chronicles of Narnia.
+- J.R.R. Tolkien.
+    - The Hobbit.
+    - The Lord of the Rings Trilogy.
+- Lewis Carroll.
+    - Alice's Adventures in Wonderland.
+    - Through the Looking Glass.
+- George MacDonald.
+    - The Lost Princess.
+    - The Light Princess.
+    - The Princess and the Goblin.
