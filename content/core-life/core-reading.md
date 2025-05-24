@@ -33,3 +33,25 @@ Ironically, after I read the book (but before making any really significant chan
 Fuhrman's book, while not AIP, shares many important concepts with AIP and is not as extreme as AIP. I've finished working through it a second time and have now begun his more recent (and probably to be recommended over Eat to Live), Eat for Life.
 
 NOTE: The importance of community and support, imho, cannot be overemphasized in the movement towards better health. I had long wanted to move into healthier eating but found the task impossible. It was only when someone walked with me through it that I was able to make the change. I think education is essential but camaderie is (at least for some of us) fundamental.
+
+## A Rulebook for Arguments (Anthony Weston)
+- Anthony Weston. A Rulebook for Arguments.
+An extremely thin little volume which helps expose a number of logical fallacies we and others often use when discussing/arguing a topic.
+
+## Co-Dependence: Misunderstood--Mistreated (Anne Wilson Schaef)
+- Anne Wilson Schaef. Co-Dependence: Misunderstood--Mistreated.
+
+A slim volume that some people "click" with and others ask me, "Why in the world am I reading this?" It is somewhat dry and at first can seem a bit unapplicable but what I love about the book is how Schaef demonstrates so clearly that our doing and being "good" can arise from a pathology which negates our behavior, in fact causes it to be "wrong" (damaging).
+
+## Sex in the Forbidden Zone (Peter Rutter)
+- Peter Rutter. Sex in the Forbidden Zone.
+
+This is another one of those books, like Schaef's above that people either "get" or "don't." It is aged and deals primarily with the power dynamics inherent in various relationships (counselor/client, doctor/patient, pastor/parishioner), especially as they relate to male/female sexual relations.
+
+It is valuable on this level but it is also quite valuable for its insights into the nature of the underlying psychology and pathology which often form attractive relationships with a sexual potential.
+
+## The Lost World of Genesis One (John H. Walton)
+- John H. Walton. The Lost World of Genesis One: Ancient Cosomology and the Origins Debate.
+
+## Stamped from the Beginning (Ibram X. Kendi)
+- Ibram X. Kendi. Stamped from the Beginning: The Definitive History of Racist Ideas in America.

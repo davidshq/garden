@@ -16,3 +16,15 @@ A biography of Joseph Smith, founder of Mormonism. Provides fascinating insights
 
 ## The Last Disciple Series (Hank Hanegraaff and Sigmund Brouwer)
 Offers a preterist view of the apocalyptic scriptures in the CHristian New Testament through a novelization. Challenges popular (Left Behind) evangelical thinking on the meaning of the Book of Revelation, etc.
+
+## Uppity Women of Medieval Times (Vicki León)
+Short biographical entries on various amazing women who lived and did things during the male-dominated medieval ages.
+
+## Others
+- George MacDonald. Lilith.
+- Anita Diamant. The Red Tent.
+- Morton Hunt. The Story of Psychology.
+- Philip Pullman. His Dark Materials Trilogy.
+- H.W. Brands. The Money Men: Capitalism, Democracy, and the Hundred Years' War Over the American Dollar.
+- Fritjof Capra. The Web of Life: A New Scienific Understanding of Living Systems.
+- Aldous Huxley. Brave New World.
