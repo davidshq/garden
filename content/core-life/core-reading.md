@@ -28,7 +28,7 @@ Kramer has written a number of books since, I have not yet had the pleasure of r
 
 Dr. Fuhrman's book came to me at an odd time in my life. While I've always struggle with depression, ADHD, OCD, and so on, I was physically rather healthy and active. I went to my GP and asked what the next step would be to improve my health, he recommended this book.
 
-Ironically, after I read the book (but before making any really significant changes to implement it) my health took a precipitous dive off a cliff. It wouldn't be until years later that a friend (Sarah Matta) would take the time to walk me through the process of the Autoimmune Protocol (AIP) through which I experienced significant relief (though by no means cessation) of many of my health issues.
+Ironically, after I read the book (but before making any really significant changes to implement it) my health took a precipitous dive off a cliff. It wouldn't be until years later that a friend ([Sarah Matta](https://www.helloiamprogrammer.com/)) would take the time to walk me through the process of the Autoimmune Protocol (AIP) through which I experienced significant relief (though by no means cessation) of many of my health issues.
 
 Fuhrman's book, while not AIP, shares many important concepts with AIP and is not as extreme as AIP. I've finished working through it a second time and have now begun his more recent (and probably to be recommended over Eat to Live), Eat for Life.
 
