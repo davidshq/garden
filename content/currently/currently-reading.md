@@ -6,10 +6,11 @@ I read a ridiculous number of books in parallel - it also generally takes me for
 This is a small and fairly limited selection from the books I'm currnetly working through...This is a digital garden is it not? Maybe I'll get better...but probably not!
 
 ## Most Excited About Currently
-- Anne Wilson Schaef. Meditations for People Who May Worry Too Much.
 - Michael Pollan. How to Change Your Mind.
+- Joel Fuhrman. Eat for Life.
 - Sue Johnson. Hold Me Tight.
 - Steve Silberman. NeuroTribes: The Legacy of Autism and the Future of Neurodiversity.
+- Anne Wilson Schaef. Meditations for People Who May Worry Too Much.
 
 ## Reading.
 - Neil Gaiman. Norse Mythology.
