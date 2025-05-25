@@ -1,3 +1,13 @@
+---
+title: "INE: Spirituality"
+tags:
+  - religious
+  - spiritual
+  - judaism
+  - christianity
+  - hinduism
+---
+
 # Important But Not Essential: Spirituality
 
 ## Religious Scriptures
@@ -50,7 +60,7 @@
 #### Theodicy / Suffering / Evil
 - Richard Rice. Suffering and the Search for Meaning: Contemporary Responses to the Problem of Pain.
 - Thomas Talbott. The Inescapable Love of God.
-### Unorganized
+#### Unorganized
 - George MacDonald. Unspoken Sermons: Series I, II, III.
 - Kyle Strobel. Metamorpha: Jesus as a Way of Life.
 - Gorden D. Fee. How to Read the Bible for All Its Worth.

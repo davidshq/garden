@@ -1,3 +1,12 @@
+---
+title: "INE: Technical"
+tags:
+  - technical
+  - reading
+  - books
+  - coding
+---
+
 # Technical Reading
 
 - Dave Thomas, Andy Hunt. The Pragmatic Programmer: Your Journey to Mastery.

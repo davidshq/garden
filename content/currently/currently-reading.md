@@ -1,3 +1,12 @@
+---
+title: "Currently: Reading"
+tags:
+  - reading
+  - currently
+  - books
+  - articles
+---
+
 # Currently Reading
 
 ## Introduction

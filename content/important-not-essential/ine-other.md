@@ -1,3 +1,7 @@
+---
+title: "INE: Other"
+---
+
 # Important But Not Essential: Other
 
 If you want to understand me, there are some books that formed my personality around wanderlust, adventure, etc.
