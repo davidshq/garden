@@ -34,6 +34,7 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Tim Weiner. Legacy of Ashes: The History of the CIA.
 - Chip Huyen. AI Engineering.
 - C. Alexander Simpkins, Annellen Simpkins. Simple Taoism: A Guide to Living in Balance.
+- Karen Armstrong. Twelve Steps to a Compassionate Life.
 
 ## Slowish
 - Rumi. A Year with Rumi.
@@ -53,11 +54,13 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - The Exegesis of Philip K. Dick.
 - Gregory A. Boy. The Crucifixion of the Warrior God.
 - Ibram X. Kendi. How to Be an Antiracist.
-- Thais Gibson. Attachment Theory: A Guide to Strengthening the Relationships in Your Life.
+- 
 - Jessica McCabe. How to ADHD: An Insider's Guide to Working with Your Brain.
 - Venki Ramakrishnan. Why We Died: The New Science of Aging and the Quest for Immortality.
 - John Dominic Crossan. How to Read the Bible & Still Be a Christian.
 - David Burns. Feeling Good Together.
+- Irvin D. Yalom. When Nietzsche Wept.
+- Chris Rohmann. A World of Ideas: A Dictionary of Important Theories, Concepts, Beliefs, and Thinkers.
 
 
 ## Am I Reading?
