@@ -1,0 +1,6 @@
+- nutrition 
+- exercise 
+- sleep
+- community 
+- physical
+- work

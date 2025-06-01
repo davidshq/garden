@@ -1,0 +1,1 @@
+"the affluence to prioritize morals over comfort" - Who said?

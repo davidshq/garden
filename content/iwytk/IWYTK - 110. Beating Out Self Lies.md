@@ -1,0 +1,2 @@
+- Use quantified self to beat out lies to self - e.g. about how much sleep one is getting, exercise
+- Counter ANTs using mood tracking

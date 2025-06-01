@@ -22,4 +22,12 @@ Don't be afraid to live by what you "know" but be humble enough to truly listen 
 
 You don't have to accept others "truth" but you will be enriched by attempting to understand it.
 
+> [!QUOTE]
+> "I have opinions, guiding principles, theories that are strong and that I seek to live by. At the same time I hold these loosely, recognizing my finitude, my capacity for self-deception, and the opportunity for growth presented by others." - DM
+
+> [!QUOTE]
+> "There is more that I can learn that will help me to live well, I am not finished, I do not know everything, I have significant blindspots that keep me from living fully." - DM
+
+
+
 [^1]: This appears to have originated with Paul Saffo.

@@ -1,0 +1,1 @@
+ The basics are most of what I need to live well, but I tend to forget the basics and look for more methods, hacks, knowledge to live well.

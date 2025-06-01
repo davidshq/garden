@@ -1,0 +1,1 @@
+There will always be too much to do. Divide the time understanding that rather than hyperfocusing!
