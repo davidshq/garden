@@ -59,3 +59,7 @@ It is valuable on this level but it is also quite valuable for its insights into
 ## Feeling Good (David D. Burns)
 - David D. Burns. Feeling Good: The New Mood Therapy.
 I wish there was a more concise book on this topic I liked as much, but I haven't found it yet. Burns is a bit wordy but has excellent worksheets and processes throughout the book for dealing with all sorts of psychological struggles - depression, anxiety, relational, etc.
+
+## Hold Me Tight (Sue Johnson)
+- Sue Johnson. Hold Me Tight.
+An invaluable book on healthy partner relationships. Written by the founder of EFT it provides a convincing explanation of why couples end up in conflict and how to stop the spiral.

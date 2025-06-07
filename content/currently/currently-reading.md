@@ -17,11 +17,11 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 ## Most Excited About Currently
 - Michael Pollan. How to Change Your Mind.
 - Joel Fuhrman. Eat for Life.
-- Sue Johnson. Hold Me Tight.
 - Steve Silberman. NeuroTribes: The Legacy of Autism and the Future of Neurodiversity.
 - Anne Wilson Schaef. Meditations for People Who May Worry Too Much.
 - Ernest Kurtz, Katherine Ketcham. The Spirituality of Imperfection: Storytelling and the Search for Meaning.
 - Bhikhu Parekh. Gandhi: A Very Short Introduction.
+- H. Saddhatissa. The Sutta-Nipata: A New Translation from the Palin Canon.
 
 
 ## Reading.
