@@ -35,6 +35,7 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Chip Huyen. AI Engineering.
 - C. Alexander Simpkins, Annellen Simpkins. Simple Taoism: A Guide to Living in Balance.
 - Karen Armstrong. Twelve Steps to a Compassionate Life.
+- Devon Price. Unmasking Autism: Discovering the New Faces of Neurodiversity.
 
 ## Slowish
 - Rumi. A Year with Rumi.
