@@ -2,6 +2,11 @@
 
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.
 
+### June 1st, 2025
+- Same as May 1st Mix #1 except:
+	- Include a whole lemon instead of 1/3rd
+	- Add 1 tsp of Tumeric.
+
 ### May 1st, 2025
 
 #### Mix #1

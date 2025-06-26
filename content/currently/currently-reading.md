@@ -55,8 +55,7 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - The Exegesis of Philip K. Dick.
 - Gregory A. Boy. The Crucifixion of the Warrior God.
 - Ibram X. Kendi. How to Be an Antiracist.
-- 
-- Jessica McCabe. How to ADHD: An Insider's Guide to Working with Your Brain.
+- Jessica McCabe. [How to ADHD: An Insider's Guide to Working with Your Brain](https://amzn.to/4lhMHrL).
 - Venki Ramakrishnan. Why We Died: The New Science of Aging and the Quest for Immortality.
 - John Dominic Crossan. How to Read the Bible & Still Be a Christian.
 - David Burns. Feeling Good Together.

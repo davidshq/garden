@@ -6,7 +6,7 @@ What I have read has played a significant role in forming who I am today - and n
 I hope you'll share with me the written words that have been most impactful in your life.
 
 ## Getting Things Done (David Allen)
-- David Allen. Getting Things Done: The Art of Stress-Free Productivity.
+- David Allen. [Getting Things Done: The Art of Stress-Free Productivity](https://amzn.to/40dK6H4).
 
 I can't say I'm a guru at productivity, I have ADHD and that plays havoc with my capabilities - but learning the system outlined by Allen in this book helped me develop better sytsems for myself.
 
