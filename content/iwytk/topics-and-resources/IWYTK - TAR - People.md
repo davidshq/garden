@@ -1,0 +1,14 @@
+
+- Mary Nhin. Euclid.
+- Mary Nhin. Maya Angelou.
+- Mary Nhin. Sophie Cruz. (young activist)
+- Mary Nhin. Wilma Rudolph. (disabilities)
+- Mary Nhin. Lionel Messi. (perseverance)
+- Mary Nhin. Ella Fitzgerald. (perseverance, passion)
+- Mary Nhin. Harriet Tubman. (bravery, courage)
+- Mary Nhin. Mother Teresa. (service, love)
+- Mary Nhin. Oprah Winfrey.
+- Mary Nhin. Martin Luther King Jr.
+- Mary Nhin. Rosa Parks.
+- Mary Nhin. Albert Einstein.
+- Mary Nhin. Indra Nooyi.

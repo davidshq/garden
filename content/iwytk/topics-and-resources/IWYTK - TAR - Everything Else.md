@@ -1,0 +1,27 @@
+# Other
+- Diane Alber. A Little Spot of Talent: A Story About Finding Your Way to Shine.
+- Diane Alber. Feelings Zoo.
+- Diane Alber. Emotions Aquarium: A Tank Full of Feelings.
+- Diane Alber. Emotion Ocean.
+- Diane Alber. A Little Spot ABC's of Feelings.
+- Diane Alber. A Little Spot Feelings Island: An Emotional Adventure.
+- Diane Alber. A Little Spot Team Needs a Coach: A Story About Emotional Awareness.
+- Diane Alber. A Little Spot Emotion Coach.
+- Diane Alber. A Little Needs Feelings.
+	- "helps children understand how some feelings and emotions NEED each other. Like Anger needs Peacefulness, and Anxiety needs confidence."
+- Diane Alber. A Little Spot of Learning: A Story About Managing Emotions While Learning.
+- Diane Alber. A Little Spot of Life Skills & Actions: Building Character Educator's Guide.
+- Michael Gordon. I Can Make Choices.
+	- "helping kids manage their emotions and anger."
+- Mary Nhin. Neurologist Ninja.
+- Mary Nhin. Growth Mindset Ninja Activity Book.
+- Jan and Stan Berenstain.
+	- The Berenstain Bears
+		- and the Messy Room.
+		- Bedtime Battle.
+		- Too Much Vacation.
+			- "making the best out of a bad situation"
+		- Learn About Strangers
+		- (Jan and Mike) Gossip Gang
+		- (Jan and Mike) Truth About Gossip
+		- Get in a Fight
