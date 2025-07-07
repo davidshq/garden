@@ -5,16 +5,17 @@ I'm writing this in part for my son and so a lot of the titles will be for child
 
 Some authors who write primarily children's list and you'll find listed below are:
 - [Diane Alber](https://amzn.to/44lVrGl)
-- Stan & Jan Berenstain
+- [Stan](https://amzn.to/4ewxzEE) & [Jan](https://amzn.to/4lyW3Q0) & [Mike](https://amzn.to/3Igm9sB) Berenstain
 - [Elizabeth Cole](https://amzn.to/4l3R4qR)
-- Becky Cummings
-- Elizabeth Estrada
-- Julia Cook
-- Gabi Garcia
+- [Becky Cummings](https://amzn.to/45WUBCC)
+- [Elizabeth Estrada](https://amzn.to/4kpRfeS)
+- [Julia Cook](https://amzn.to/4eBXpHA)
+- [Gabi Garcia](https://amzn.to/40Auuh6)
 - [Michael Gordon](https://amzn.to/44389uW)
-- Jory John
+- [Jory John](https://amzn.to/4klCWb5)
+- [Brenda Li](https://amzn.to/4lxXD4w)
 - [Mary Nhin](https://amzn.to/3Gm8Q9x)
-- Alicia Ortego
+- [Alicia Ortego](https://amzn.to/46qDskL)
 
 # Positive Habits
 ## Accountability
@@ -274,11 +275,3 @@ Synonyms: Collaboration
 - Jan and Mike Berenstain. The Berenstain Bears 
 	- and a Job Well Done.
 	- Get the Job Done.
-
-
-# Understanding the World
-- Mary Nhin. President Ninja.
-- Mary Nhin. Investor Ninja.
-- Mary Nhin. Earth Ninja.
-- Mary Nhin. Money Ninja.
-- Stan and Jan Berenstain. The Berenstain Bears' Dollars and Sense.

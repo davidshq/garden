@@ -1,29 +1,33 @@
 When I say "negative" I mean "unpleasant" not necessarily "something to be avoided." Negative emotions play an important role in our lives and often need to be gone through rather than around.
 # "Negative" Emotions
 ## Anger
-- Diane Alber. A Little Spot Of: Anger Goes to Middle School.
-- Diane Alber. A Little Spot: Hot Angry Spot: A Story About How to Cool Down.
-- Diane Alber. A Little Spot of Anger: A Story About Managing BIG Emotions.
-- Diane Alber. A Little Spit: Angry Feelings Big to Small.
-- Diane Alber. A Little Spot's Anger Field: A story about how Anger shields other emotions.
-- Michael Gordon How I Calm My Anger.
-- Michael Gordon. My Bad Temper.
-- Michael Gordon. I Can Handle My Anger.
-- Michael Gordon. When I Roar.
-- Michael Gordon. Anger Management.
-- Michael Gordon. I Get Angry like a Tiger.
-- Michael Gordon. I Am Like a Volcano.
-- Michael Gordon. I Feel Mad.
-- Michael Gordon. What is Anger: A Workbook for Kids and Parents.
-- Michael Gordon. The Tantrum Monster.
-- Michael Gordon. Today I Am Mad.
-- Michael Gordon. When I Am Angry.
-- Michael Gordon. When I Lose My Temper.
-- Michael Gordon. The Angry Dragon.
-- Michael Gordon. Dragon's Fury.
-- Mary Nhin. Furious Ninja.
-- Mary Nhin. Angry Ninja.
-- Mary Nhin. Hangry Ninja.
+- Diane Alber
+	- A Little Spot Of: Anger Goes to Middle School.
+	- A Little Spot: Hot Angry Spot: A Story About How to Cool Down.
+	- A Little Spot of Anger: A Story About Managing BIG Emotions.
+	- A Little Spit: Angry Feelings Big to Small.
+	- A Little Spot's Anger Field: A story about how Anger shields other emotions.
+- Michael Gordon
+	- How I Calm My Anger.
+	- My Bad Temper.
+	- I Can Handle My Anger.
+	- When I Roar.
+	- Anger Management.
+	- I Get Angry like a Tiger.
+	- I Am Like a Volcano.
+	- I Feel Mad.
+	- What is Anger: A Workbook for Kids and Parents.
+	- The Tantrum Monster.
+	- Today I Am Mad.
+	- When I Am Angry.
+	- When I Lose My Temper.
+	- The Angry Dragon.
+	- Dragon's Fury.
+- Mary Nhin.
+	- Furious Ninja.
+	- Angry Ninja.
+	- Hangry Ninja.
+- 
 ## Anxiety
 Synonyms: Worry
 Related: Fear

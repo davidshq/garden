@@ -1,20 +1,24 @@
 # Other
-- Diane Alber. A Little Spot of Talent: A Story About Finding Your Way to Shine.
-- Diane Alber. Feelings Zoo.
-- Diane Alber. Emotions Aquarium: A Tank Full of Feelings.
-- Diane Alber. Emotion Ocean.
-- Diane Alber. A Little Spot ABC's of Feelings.
-- Diane Alber. A Little Spot Feelings Island: An Emotional Adventure.
-- Diane Alber. A Little Spot Team Needs a Coach: A Story About Emotional Awareness.
-- Diane Alber. A Little Spot Emotion Coach.
-- Diane Alber. A Little Needs Feelings.
-	- "helps children understand how some feelings and emotions NEED each other. Like Anger needs Peacefulness, and Anxiety needs confidence."
+## Diane Alber
+- Diane Alber. 
+	- A Little Spot of Talent: A Story About Finding Your Way to Shine.
+	- Feelings Zoo.
+	- Emotions Aquarium: A Tank Full of Feelings.
+	- Emotion Ocean.
+	- A Little Spot ABC's of Feelings.
+	- A Little Spot Feelings Island: An Emotional Adventure.
+	- A Little Spot Team Needs a Coach: A Story About Emotional Awareness.
+	- A Little Spot Emotion Coach.
+	- A Little Needs Feelings.
+		- "helps children understand how some feelings and emotions NEED each other. Like Anger needs Peacefulness, and Anxiety needs confidence."
 - Diane Alber. A Little Spot of Learning: A Story About Managing Emotions While Learning.
 - Diane Alber. A Little Spot of Life Skills & Actions: Building Character Educator's Guide.
+- ## Michael Gordon
 - Michael Gordon. I Can Make Choices.
 	- "helping kids manage their emotions and anger."
 - Mary Nhin. Neurologist Ninja.
 - Mary Nhin. Growth Mindset Ninja Activity Book.
+## Jan and Stan Berenstain
 - Jan and Stan Berenstain.
 	- The Berenstain Bears
 		- and the Messy Room.
@@ -25,3 +29,188 @@
 		- (Jan and Mike) Gossip Gang
 		- (Jan and Mike) Truth About Gossip
 		- Get in a Fight
+## Jory John
+- Jory John
+	- The Couch Potato
+	- The Bad Seed
+	- The Good Egg
+	- The Cool Bean
+	- The Big Cheese
+	- The Humble Pie
+	- The Smart Cookie
+	- The Sour Grape
+	- Nothing's Wrong! - 3.7 Goodreads
+		- Multiple?
+	- Something's Wrong! - 4.0 Goodreads
+		- Multiple?
+	- Cat Problems - 3.8 Goodreads
+	- Giraffe Problems - 4.1 Goodreads
+	- I Love You Already! - 3.9 Goodreads
+	- It's Not My Fault! - 3.0 Goodreads
+	- Quit Calling Me a Monster! - 3.9 Goodreads
+## Julia Cook
+- Julia Cook
+	- The Bubble Wrap Queen (safety)
+	- I Just Want to Do It May Way!
+	- I Just Don't Like the Sound of NO!
+	- I Want to Be the Only Dog (sibling rivalry)
+	- Awesome Dawson Has Big Emotions
+	- I Am Money
+	- Making Friends is an Art!
+	- Tease Monster: A Book About Teasing vs. Bullying
+	- But It's Not My Fault
+	- Baditude!: What to Do When Your Life STINKS!
+	- The Technology Tail: A Digital Footprint Story
+	- Cliques Just DOn't Make Centers
+	- Thanks fro the Feedback... (I Think?)
+	- Decibella and Her 6-inch Voice (communication)
+	- Well, I Can Top That! (communication)
+	- Herman Jiggle Just Be You (social skills)
+	- Schnauzer's Trousers (spotlight)
+	- Will You be the "I" in Kind? (empathy)
+	- My Mouth is a Volcano!
+	- A Flicker of Hope: A Picture Book About Depression and Asking for Help
+	- Bubble Gum Brain (growth mindset)
+	- Be Where Your Feet Are (Mindfulness)
+	- Herman Jiggle, It's Recess Not Restress! (social skills)
+	- A Bad Case of Tattle Tongue
+	- Study Skilled...NOT! (homework)
+	- Foster Care: One Dog's Story of Change
+	- How to Be Comfortable in Your Own Feathers
+	- Melvin and the Magnificant Molar (teeth)
+	- Deployment
+	- Good Things Come to Those Who Wait (leader)
+	- Don't Be Afraid to Drop (growth mindset)
+	- Wilma Jean and the Worry Machine
+	- Grief is Like a Snowflake
+	- Blueloon (depression)
+	- I'm Stretched (mindfulness)
+	- Bully B.E.A.N.S.
+	- My Fantabulous Brain (learning challenges)
+	- Lying Up a Storm
+	- Winners Don't Whine and Whiners Don't Win (sportsmanship)
+	- I Can't Find Whatchamacallit!!
+	- I'm Not Scared...I'm Prepared! (school safety)
+	- What Shoes Will You Wear? (career)
+	- But It's Just a Game (video games)
+	- The Anti-Test Anxiety Society
+	- The D (divorce) Word
+	- Ricky Sticky Fingers (stealing)
+	- The Ant Hill Disaster (natural disasters)
+	- I am a Booger, Treat Me with Respect (hygiene)
+	- Soda Pop Head (anger)
+	- Cell Phoney
+	- Personal Space Camp (boundaries)
+	- It's Hard to be a Verb (ADHD)
+	- I Have Ants in My Pants (self-control, respect)
+	- Planning Isn't My Priority... and Making Priorities Isn't in My Plans (Executive Functioning)
+	- The "I" in Integrity (leader)
+	- Herman Jiggle, Go to Sleep (social)
+	- Herman Jiggle, Say Hello!
+	- The Great Compromise (leader)
+	- It's My Way or the Highway (flexibility, assertiveness)
+	- Rumor Has It (relationships)
+	- What's In It For Me? (responsibility)
+	- Hiygiene... You Stink! (relationships)
+	- Uniquely Wired (autism)
+	- The Judgmental Flower (relationships)
+	- Table Talk (manners)
+	- Peer Pressure Gauge (relationships)
+	- That Rule Doesn't Apply to Me! (responsible)
+	- The PROcrastinator (responsible)
+	- Cheaters Never Prosper
+	- Gas Happens! (communicate)
+	- I Can't Believe You Said That!
+	- Sorry, I Forgot to Ask
+	- Teamwork Isn't My Thing, and I Don't Like to Share!
+	- The Worst Day of My Life EVER! (following instructions, listening)
+## Brenda Li
+- Brenda Li
+	- The Girl Who Has a Million Problems (problem solving)
+	- The Boy Who Makes a Million Mistakes (growth mindset)
+	- The Girl Who Makes a Million Mistakes (growth mindset)
+	- Pig in Jeans
+	- This Dinosaur Learns Self-Love
+	- Oops Dino Can't Stop Bumping Into Things
+	- I Lost My Halloween Costume
+	- I Love You and Cheese Pizza
+	- Pig in Jeans Fights Germs
+	- Being Kind
+	- Unicorn's Slime Rescue
+	- I Turned My Mom Into a Unicorn (thankful)
+	- The Unicorn Who Sold Zero Cupcakes (persistence)
+## Becky Cummings
+- Becky Cummings
+	- Cindayella and the Fairy Wordmother
+	- My Magical Body
+	- My Magical Feelings
+	- My Magical Moods
+	- My Magical Choices
+	- My Magical Words
+	- Share Share Ms. Hare
+	- The Magic of Me: A Kid's Guide to Creating Happiness
+	- My Magical Foods
+	- My Magical Gifts
+	- My Magical Dreams
+	- Gobble Gobble Mr. Wobble
+	- The Magic of Me: A Kid's Spiritual Guide to Health and Happiness
+## Elizabeth Estrada
+- Elizabeth Estrada
+	- I Choose to
+		- Be Me
+		- Be Thankful
+		- Work Hard
+		- Make Good Decisions
+		- Acceptance
+		- Say No
+		- Empathy
+		- Be Respectful
+		- Calm My Anger
+		- Kindness
+		- Speak Up (bullying, discrimination)
+		- Helper
+		- Happy
+		- Try Again
+		- Calm My Anxiety
+		- Reduce, Reuse, Recycle
+## Gabi Garcia
+- Gabi Garcia
+	- Sometimes I Need...: Helping Kids Care for Their Hearts, Minds & Bodies
+	- Finding Joy: A Celebration of Small Moments
+	- We Are All Connected: Caring for Each Other & the Earth
+	- Amaya's Anger: A Mindful Understanding of Strong Emtoions
+	- Santiago's Sadness: Making Room for All Emotions
+	- I Can Do Hard Things: Mindful Affirmations for Kids
+	- Mateo Finds the Wow: A Story of Wonder and Gratitude
+	- The Friend I Need: Being Kind & Caring to Myself
+	- Find Your Calm: A Mindful Approach to Relieve Anxiety & Grow Bravery
+	- Listening to My Body
+	- Listening with My Heart
+## Alicia Ortego
+- Alicia Ortego
+	- ...is my Superpower
+		- Kindness
+		- Friendship
+		- Gratitude
+		- Breathing
+		- Confidence
+		- Acceptance
+		- Honesty
+		- Listening 
+		- Patience
+		- Love
+		- Perseverance
+		- Positivity
+		- Choices
+		- Emotions
+	- I Can Enjoy Reading!
+	- I Can Be Kind!
+	- I Can Handle BIG EMOTIONS!
+	- I Can Say NO!
+
+# Understanding the World
+- Mary Nhin. President Ninja.
+- Mary Nhin. Investor Ninja.
+- Mary Nhin. Earth Ninja.
+- Mary Nhin. Money Ninja.
+- Stan and Jan Berenstain. The Berenstain Bears' Dollars and Sense.
