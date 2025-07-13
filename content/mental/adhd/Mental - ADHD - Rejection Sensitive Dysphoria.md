@@ -1,0 +1,1 @@
+- Letephia Hiler. ["How I Dismantle My RSD with Mindfulness"](https://www.additudemag.com/overcoming-rejection-sensitivity-adhd-mindfulness/). ADDitude. Updated: 5/7/2025.

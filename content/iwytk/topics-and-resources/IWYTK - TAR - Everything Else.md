@@ -18,7 +18,7 @@
 	- "helping kids manage their emotions and anger."
 - Mary Nhin. Neurologist Ninja.
 - Mary Nhin. Growth Mindset Ninja Activity Book.
-## Jan and Stan Berenstain
+## Jan, Stan, Mike Berenstain
 - Jan and Stan Berenstain.
 	- The Berenstain Bears
 		- and the Messy Room.
@@ -29,6 +29,7 @@
 		- (Jan and Mike) Gossip Gang
 		- (Jan and Mike) Truth About Gossip
 		- Get in a Fight
+	- Why Do Good Bears Have Bad Days? - Goodreads: 4.1
 ## Jory John
 - Jory John
 	- The Couch Potato

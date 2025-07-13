@@ -27,7 +27,8 @@ When I say "negative" I mean "unpleasant" not necessarily "something to be avoid
 	- Furious Ninja.
 	- Angry Ninja.
 	- Hangry Ninja.
-- 
+- Elizabeth Cole
+	- I Am Stronger Than Frustration.
 ## Anxiety
 Synonyms: Worry
 Related: Fear
