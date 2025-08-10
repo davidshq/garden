@@ -8,12 +8,18 @@
     "single_file_data_path": ".smart-env/smart_sources.json",
     "min_chars": 200,
     "embed_model": {
-      "adapter": "transformers",
+      "adapter": "ollama",
       "transformers": {
         "legacy_transformers": false,
         "model_key": "TaylorAI/bge-micro-v2"
       },
-      "TaylorAI/bge-micro-v2": {}
+      "TaylorAI/bge-micro-v2": {},
+      "ollama": {
+        "model_key": "nomic-embed-text:latest",
+        "host": "http://localhost:11434"
+      },
+      "undefined": {},
+      "nomic-embed-text:latest": {}
     },
     "expanded_view": true
   },
@@ -22,10 +28,41 @@
   "smart_view_filter": {
     "render_markdown": true,
     "show_full_path": false,
+    "exclude_blocks_from_source_connections": false,
+    "expanded_view": false,
     "results_limit": "20"
+  },
+  "excluded_headings": "",
+  "language": "en",
+  "new_user": true,
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {
+        "model_key": "undefined",
+        "models": {
+          "gemma3:latest": {
+            "model_name": "gemma3:latest",
+            "id": "gemma3:latest",
+            "multimodal": false,
+            "max_input_tokens": 131072,
+            "can_use_tools": true
+          }
+        }
+      }
+    },
+    "active_thread_key": "",
+    "system_prompt": "",
+    "detect_self_referential": true,
+    "review_context": true,
+    "stream": true,
+    "language": "en",
+    "modifier_key_to_send": "shift",
+    "use_tool_calls": true
   },
   "smart_notices": {
     "muted": {}
   },
-  "excluded_headings": ""
+  "version": ""
 }

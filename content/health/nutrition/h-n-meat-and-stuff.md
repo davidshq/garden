@@ -1,0 +1,9 @@
+- ground turkey, ground beef
+	- latter not from Walmart, Aldi often good
+- butterball ground turkey
+- lettuce wraps
+- rice
+- carrots
+- asparagus spears
+- broccoli
+- 
