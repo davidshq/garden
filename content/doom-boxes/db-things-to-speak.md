@@ -1,33 +1,31 @@
-1. Docker 101: up and running
-
-2. Docker 102: multi-containers and networking
-
-3. Git 101: up and running
-
-4. Git 102: branches, merging and rebasing
-
-5. OpenSearch 101: up and running
-
-6. OpenSearch 102: more complex queries
-
-7. OpenSearch 103: vector search
-
-8. OpenSearch 104: hybrid search
-
-9. Cursor: AI Augmented coding
-
-10. How Attachment Theory Can Inform Our Relationships
-
-11. GitHub 101: Up and Running
-
-12. Using GitHub to Get a Job
-
-13. Retro Coding: QuickBasic with QB64
-
-14. Vectors 101: Understanding Their Use for Embeddings
-
-15. Up and Running with Python
-
-16. Up and Running with TypeScript
-
-17. Up and Running with WordPress
+## Introduction
+Topics I feel competent to speak on...probably.
+## Docker
+- Docker 101: Up and Running
+- Docker 102: Multi-Containers and Networking
+## Git
+- Git 101: up and running
+- Git 102: branches, merging and rebasing
+- GitHub 101: up and running
+## OpenSearch
+- OpenSearch 101: up and running
+- OpenSearch 102: more complex queries
+- OpenSearch 103: vector search
+- OpenSearch 104: hybrid search
+## Search and AI
+- Vectors 101: Understanding Their Use for Embeddings
+## AI Augmentation
+- Claude Code 101
+- Cursor 101
+## Life
+- How Attachment Theory Can Inform Our Relationships
+- Using GitHub to Get a Job
+- Lessons on Getting a Job from the Life of Charles Babbage
+	- Given at Tech Talk Augusta (2025)
+## Fun
+- Retro Coding: QuickBasic with QB64
+	- Given at Tech Talk Augusta (2025) and Carolina Code Conference (2025).
+## Coding Languages
+- Up and Running with Python
+- Up and Running with TypeScript
+- Up and Running with WordPress

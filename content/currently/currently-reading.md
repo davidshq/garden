@@ -22,12 +22,13 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Ernest Kurtz, Katherine Ketcham. The Spirituality of Imperfection: Storytelling and the Search for Meaning.
 - Bhikhu Parekh. Gandhi: A Very Short Introduction.
 - H. Saddhatissa. The Sutta-Nipata: A New Translation from the Palin Canon.
+- Sue Johnson. [Love Sense: The Revolutionary New Science of Romantic Relationships](https://amzn.to/4kYUoDt). 2013.
 
 
 ## Reading.
 - Neil Gaiman. Norse Mythology.
 - Bruce D. Perry, Oprah Winfrey. What Happened to You?: Conversations on Trauma, Resilience, and Healing.
-- Courage to Change.
+- Al-Anon, Anonymous. Courage to Change.
 - Philip Novak. The World's Wisdom.
 - Devon Price. Unmasking Autism.
 - Chris Harman. A People's History of the World.
@@ -61,7 +62,6 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - David Burns. Feeling Good Together.
 - Irvin D. Yalom. When Nietzsche Wept.
 - Chris Rohmann. A World of Ideas: A Dictionary of Important Theories, Concepts, Beliefs, and Thinkers.
-
 
 ## Am I Reading?
 - Charles Petzold. Code: The Hidden Language of Computer Hardware and Software.

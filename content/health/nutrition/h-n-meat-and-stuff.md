@@ -6,4 +6,3 @@
 - carrots
 - asparagus spears
 - broccoli
-- 
