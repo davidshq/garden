@@ -1,3 +1,9 @@
+---
+title: "HN: Next Smoothie Recipe"
+aliases:
+  - /health/nutrition/h-n-next-smoothie-recipe
+---
+
 This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for next time.
 
 # Ingredients
@@ -43,7 +49,3 @@ This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for nex
 (1) Or 1 cup spinach. ChatGPT: 1 cup ~= 1.5 oz.
 (2) ChatGPT: 2 oz ~= .5 cup.
 (3) The blend I'm using, Thrive Market Organic Stevia with Inulin according to ChatGPT has a relatively low amount of actual Stevia so I need around 2g to replace sweetness of apple juice.
-
-# Inventory
-- Baby Carrots - 3x
-- 

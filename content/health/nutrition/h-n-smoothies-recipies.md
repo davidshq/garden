@@ -2,6 +2,30 @@
 
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.
 
+### August 2025
+# Ingredients
+1. Apple Juice - 1 cup
+2. Water - 2 cups
+3. Stevia - 2 grams
+4. Tumeric - 1 tsp
+5. Cinnamon - 2 tsp
+6. Chia Seeds - 5 tbsp
+7. Rainbow Kale - 1 cup
+8. Mushrooms - 1 cup
+9. Blueberries - 1 cup 
+10. Pineapple - 1 cup
+11. Blackberries - 1 cup
+12. Strawberries - 1 cup
+13. Raspberries - 1 cup
+14. Banana - 1
+15. Avocado - 1
+16. Lemon - 1
+17. Honey - 1 tbsp
+
+(1) Or 1 cup spinach. ChatGPT: 1 cup ~= 1.5 oz.
+(2) ChatGPT: 2 oz ~= .5 cup.
+(3) The blend I'm using, Thrive Market Organic Stevia with Inulin according to ChatGPT has a relatively low amount of actual Stevia so I need around 2g to replace sweetness of apple juice.
+
 ### June 1st, 2025
 - Same as May 1st Mix #1 except:
 	- Include a whole lemon instead of 1/3rd

@@ -1,13 +1,15 @@
 # Health -> Nutrition -> Fuhrman
 
 ## Introduction
-In Dr. Joel Fuhrman's book Eat for Life he provides "nutrient IQ scores" (pp. 32-33) for a variety of foods. Below I've included a subset of these foods with a focus on those that can be used in [my smoothies](h-n-smoothies).
+In Dr. Joel Fuhrman's book [Eat for Life](https://amzn.to/4lXdNEC) he provides "nutrient IQ scores" (pp. 32-33) for a variety of foods. Below I've included a subset of these foods with a focus on those that can be used in [my smoothies](h-n-smoothies).
 
 ## Notes
-- I'm primarily interested in foods that don't need to be cooked before being eaten. This means that some foods have significantly lower nutrient scores because I'm referring to the raw not cooked version - e.g. kale and collards (each 112 when cooked versus 79 when raw).
-- I've modified the volume of these items, particularly those that are measured in cups to be 1 cup in size. See [this article on calculating scores based on differing portion sizes](https://www.drfuhrman.com/what-is-nutrient-iq).
+- I'm primarily interested in foods that don't need to be cooked before being eaten. 
+	- This means that some foods have significantly lower nutrient scores because I'm referring to the raw not cooked version - e.g. kale and collards (each 112 when cooked versus 79 when raw).
+- I've modified the volume of these items, particularly those that are measured in cups to be 1 cup in size. 
+	- See [this article on calculating scores based on differing portion sizes](https://www.drfuhrman.com/what-is-nutrient-iq).
 ## The Foods
-### Largely AIP Compliant
+### Largely Autoimmune Protocol (AIP) Compliant
 
 | Food                                          | Serving | Score | AIP   |
 | --------------------------------------------- | ------- | ----- | ----- |

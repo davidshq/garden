@@ -23,6 +23,7 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - Bhikhu Parekh. Gandhi: A Very Short Introduction.
 - H. Saddhatissa. The Sutta-Nipata: A New Translation from the Palin Canon.
 - Sue Johnson. [Love Sense: The Revolutionary New Science of Romantic Relationships](https://amzn.to/4kYUoDt). 2013.
+- Audre Lorde. [Sister Outsider: Essays and Speeches](https://amzn.to/4n5DkMF). 2007.
 
 
 ## Reading.
@@ -41,7 +42,6 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 ## Slowish
 - Rumi. A Year with Rumi.
 - The Quran.
-- Audre Lorde. Sister Outsider: Essays and Speeches.
 - David D. Burns. Feeling Great: The Revolutionary New Treatment for Depression and Anxiety.
 - Jessica Baum. Anxiously Attached.
 
