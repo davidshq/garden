@@ -1,3 +1,11 @@
+---
+title: Past Smoothie Recipes
+aliases:
+  - /health/nutrition/h-n-smoothies-recipes
+tags:
+  - smoothies
+---
+
 # Health -> Nutrition -> Smoothie Recipes
 
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.

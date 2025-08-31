@@ -1,3 +1,7 @@
+---
+title: Meat and Stuff
+---
+
 - ground turkey, ground beef
 	- latter not from Walmart, Aldi often good
 - butterball ground turkey

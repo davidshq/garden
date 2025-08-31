@@ -1,7 +1,9 @@
 ---
-title: "HN: Next Smoothie Recipe"
+title: Next Smoothie Recipe
 aliases:
   - /health/nutrition/h-n-next-smoothie-recipe
+tags:
+  - smoothies
 ---
 
 This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for next time.

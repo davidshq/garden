@@ -1,7 +1,11 @@
+---
+title: Joel Fuhrman's Nutrient IQ Scores
+---
+
 # Health -> Nutrition -> Fuhrman
 
 ## Introduction
-In Dr. Joel Fuhrman's book [Eat for Life](https://amzn.to/4lXdNEC) he provides "nutrient IQ scores" (pp. 32-33) for a variety of foods. Below I've included a subset of these foods with a focus on those that can be used in [my smoothies](h-n-smoothies).
+In Dr. Joel Fuhrman's book [Eat for Life](https://amzn.to/4lXdNEC) he provides "nutrient IQ scores" (pp. 32-33) for a variety of foods. Below I've included a subset of these foods with a focus on those that can be used in [my smoothies](h-n-smoothies.md).
 
 ## Notes
 - I'm primarily interested in foods that don't need to be cooked before being eaten. 

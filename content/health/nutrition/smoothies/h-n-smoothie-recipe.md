@@ -1,3 +1,11 @@
+---
+title: Current Smoothie Recipe
+aliases:
+  - /health/nutrition/h-n-smoothie-recipe
+tags:
+  - smoothies
+---
+
 # Health -> Nutrition -> Smoothie Recipe
 
 ## Introduction

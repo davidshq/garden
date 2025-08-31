@@ -1,3 +1,11 @@
+---
+title: "Health: Nutrition: Smoothies"
+aliases:
+  - /health/nutrition/h-n-smoothies
+tags:
+  - smoothies
+---
+
 # Health -> Nutrition -> Smoothies
 ## Notes
 - Originally I was using a lot of frozen vegetables but then I noticed that one was supposed to cook them fully before using them. I tried this a bit and found it to be a significant inconvenience, so I've been moving to using fresh vegetables that are marked as "ready to eat", it costs more and I'll evaluate over time whether the reduced time/energy is worth the increased cost.
