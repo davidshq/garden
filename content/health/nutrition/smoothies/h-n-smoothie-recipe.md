@@ -5,13 +5,10 @@ aliases:
 tags:
   - smoothies
 ---
-
-# Health -> Nutrition -> Smoothie Recipe
-
 ## Introduction
-This is the latest smoothie recipe I am working with.
+This is the latest  stable smoothie recipe I am working with.
 
-# Ingredients
+## Ingredients
 
 | Ingredient   | Quantity | IQScore |
 | ------------ | -------- | ------- |

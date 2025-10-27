@@ -10,8 +10,8 @@ tags:
 
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.
 
-### August 2025
-# Ingredients
+### August 2025 
+I found this one to have a funny taste. Not sure if it might have been the stevia or the tumeric or if it was due to the decrease in apple juice.
 1. Apple Juice - 1 cup
 2. Water - 2 cups
 3. Stevia - 2 grams

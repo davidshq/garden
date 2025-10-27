@@ -21,14 +21,15 @@
       "undefined": {},
       "nomic-embed-text:latest": {}
     },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled",
+    "folder_exclusions": "smart-chats",
     "expanded_view": true
   },
   "ribbon_icons": {
     "connections": true,
     "random_note": false
   },
-  "file_exclusions": "Untitled",
-  "folder_exclusions": "smart-chats",
   "smart_view_filter": {
     "render_markdown": true,
     "show_full_path": false,
@@ -37,7 +38,6 @@
     "expanded_view": true,
     "results_limit": "20"
   },
-  "excluded_headings": "",
   "language": "en",
   "new_user": true,
   "re_import_wait_time": 13,
@@ -57,7 +57,7 @@
         }
       }
     },
-    "active_thread_key": "",
+    "active_thread_key": "Untitled Chat 2025-10-20 14-16-48",
     "system_prompt": "",
     "detect_self_referential": true,
     "review_context": true,
