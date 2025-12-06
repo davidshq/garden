@@ -1,8 +1,6 @@
 ---
 title: "Health: Nutrition: Vegetables, Fruits, and Spices"
 ---
-
-
 These are vegetables I use, consider using, or that I'd probably consider using but have low nutrient scores per Fuhrman.
 
 Note that some of these I couldn't find Fuhrman scores for, so I used AI and my questionable common sense.

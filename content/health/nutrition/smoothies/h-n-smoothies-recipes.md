@@ -2,6 +2,7 @@
 title: Past Smoothie Recipes
 aliases:
   - /health/nutrition/h-n-smoothies-recipes
+  - /health/nutrition/smoothies/h-n-smoothies-recipies
 tags:
   - smoothies
 ---
@@ -11,11 +12,11 @@ tags:
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.
 
 ### August 2025 
-I found this one to have a funny taste. Not sure if it might have been the stevia or the tumeric or if it was due to the decrease in apple juice.
+I found this one to have a funny taste. Not sure if it might have been the stevia or the turmeric or if it was due to the decrease in apple juice.
 1. Apple Juice - 1 cup
 2. Water - 2 cups
 3. Stevia - 2 grams
-4. Tumeric - 1 tsp
+4. Turmeric - 1 tsp
 5. Cinnamon - 2 tsp
 6. Chia Seeds - 5 tbsp
 7. Rainbow Kale - 1 cup
@@ -37,7 +38,7 @@ I found this one to have a funny taste. Not sure if it might have been the stevi
 ### June 1st, 2025
 - Same as May 1st Mix #1 except:
 	- Include a whole lemon instead of 1/3rd
-	- Add 1 tsp of Tumeric.
+	- Add 1 tsp of Turmeric.
 
 ### May 1st, 2025
 

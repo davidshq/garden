@@ -15,10 +15,10 @@ In Dr. Joel Fuhrman's book [Eat for Life](https://amzn.to/4lXdNEC) he provides "
 ## The Foods
 ### Largely Autoimmune Protocol (AIP) Compliant
 
-| Food                                            | Serving | Score | AIP   |
+| Food                                            | Serving | NIQ   | AIP   |
 | ----------------------------------------------- | ------- | ----- | ----- |
 | Onions                                          | 1 cup   | 240   | Y     |
-| Pomegranate, juice or kernels                   | 1 cup   | 148   | Y     |
+| Pomegranate kernels (juice also quite good)     | 1 cup   | 148   | Y     |
 | **Chia seeds**                                  | 5 Tbsp  | 102.5 | **N** |
 | Bok choy                                        | 1 cup   | 90    | Y     |
 | **Broccoli**                                    | 1 cup   | 90    | Y     |

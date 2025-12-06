@@ -20,7 +20,7 @@
 | Manganese  | 0mg           | 1.4mg            | 0mg           |
 | Vitamin D  | 0mcg          | 0mcg             | 0.1mcg        |
 
-- AI indicates that I used AI to calculate this, so it may be wrong. Someday I'll go back through...
+- (AI) = indicates that I used AI to calculate this, so it may be wrong. Someday I'll go back through...
 (1) Based on Mayorga Organic Raw Chia Seeds, 3 lb bag.
 (2) Based on Go Raw Organic Sprouted Pumpkin Seeds Sea Salt Flavored. 1 lb 6 oz bag.
 (3) Note that this is for sea salt flavored ones (oops), so the sodium content is quite high.
