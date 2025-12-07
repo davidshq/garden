@@ -11,7 +11,52 @@ tags:
 
 Note: Nutritional values of these may be suspect. I need to rework all this, but the ingredients themselves seemed to work well.
 
-### August 2025 
+## December 2025
+I have been attempting to pre-blend ingredients to make it simpler to actually make the smoothies. This is especially important for fresh ingredients, blah, blah, I've written about this elsewhere in [Smoothie Maths](h-n-smoothie-maths).
+
+### Simple Swap
+I initially attempted to include the same amount of blended ingredients as raw ingredients but this didn't work because the raw ingredients compacted when blended while the pre-blended ingredients do not - so I cannot fit the equivalent number of blended ingredients into the 64 oz blender.
+
+Here is what ended up being in that mix:
+- Apple Juice - 2 cups
+- (Thrive diluted) Stevia - 2 grams
+- Turmeric - 1 tsp
+- Cinnamon - 2 tsp
+- Collagen Peptides - 20 grams
+- Chia Seeds - 5 tbsp
+- Spinach - 1 cup
+- Mushrooms - 1 cup
+- Blackberries - 1 cup
+- Strawberries - 1 cup
+- Bananas - 2 cups
+- Lemons - 1 cup
+- Honey 1 tbsp
+
+As one can see I didn't have any room for blueberries, raspberries, or avocado.
+
+This mix tasted okay but a bit heavy on the tang (lemons) and also a bit earthy (mushrooms).
+
+### Slightly Refined Values
+Second time around I reduced the values of some rather haphazardly in an attempt to fit everything:
+- Apple Juice - 1 cup
+- (Thrive diluted) Stevia - 2 grams
+- Turmeric - 1 tsp
+- Cinnamon - 2 tsp
+- Collagen Peptides - 20 grams
+- Chia Seeds- 5 tbsp
+- Spinach - 1 cup
+- Mushrooms - .5 cup
+- Blueberries - .5 cup
+- Strawberries - 1 cup
+- Raspberries - .5 cup
+- Bananas - 2 cups
+- Avocado - .5 cups
+- Lemon - .5 cups
+- Honey - 1 tbsp
+
+I left out Blackberries. This tasted fine but surprisingly was a little watery.
+
+## August 2025 
 I found this one to have a funny taste. Not sure if it might have been the stevia or the turmeric or if it was due to the decrease in apple juice.
 1. Apple Juice - 1 cup
 2. Water - 2 cups
@@ -35,12 +80,12 @@ I found this one to have a funny taste. Not sure if it might have been the stevi
 (2) ChatGPT: 2 oz ~= .5 cup.
 (3) The blend I'm using, Thrive Market Organic Stevia with Inulin according to ChatGPT has a relatively low amount of actual Stevia so I need around 2g to replace sweetness of apple juice.
 
-### June 1st, 2025
+## June 1st, 2025
 - Same as May 1st Mix #1 except:
 	- Include a whole lemon instead of 1/3rd
 	- Add 1 tsp of Turmeric.
 
-### May 1st, 2025
+## May 1st, 2025
 
 #### Mix #1
 This mix was quite good, probably one of my favorites thus far
