@@ -44,17 +44,15 @@ This is a small and fairly limited selection from the books I'm currnetly workin
 - The Quran.
 - David D. Burns. Feeling Great: The Revolutionary New Treatment for Depression and Anxiety.
 - Jessica Baum. Anxiously Attached.
-
 ## Slowlyyyyy
 - Lawrence Sutin. Divine Invasions: A Life of Philip K. Dick.
 - Marcus Aurelius. Meditations.
 - Martin Fowler. Refactoring: Improving the Design of Existing Code.
-- George MacDonald. At the Back of the North Wind.
 - Walter Isaacson. Benjamin Franklin: An American Life.
 - Kurt Vonnegut. A Man Without a Country.
 - Pema Chödrön. When Things Fall Apart: Heart Advice for Difficult Times.
 - The Exegesis of Philip K. Dick.
-- Gregory A. Boy. The Crucifixion of the Warrior God.
+- Gregory A. Boyd. The Crucifixion of the Warrior God.
 - Ibram X. Kendi. How to Be an Antiracist.
 - Jessica McCabe. [How to ADHD: An Insider's Guide to Working with Your Brain](https://amzn.to/4lhMHrL).
 - Venki Ramakrishnan. Why We Died: The New Science of Aging and the Quest for Immortality.
