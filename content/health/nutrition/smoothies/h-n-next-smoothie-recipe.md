@@ -5,7 +5,7 @@ aliases:
 tags:
   - smoothies
 ---
-
+Smooth
 This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for next time.
 
 # Ingredients
@@ -25,6 +25,7 @@ This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for nex
 14. Avocado - 1 cup
 15. Lemon - .5 cup
 16. Honey - 1 tbsp
+17. MUD/WTR Mushroom Boost - 1 tsp
 
 **Note:** At this point the IQScores are totally off, I'll try to fix in the future.
 
