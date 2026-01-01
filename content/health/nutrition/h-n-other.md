@@ -1,0 +1,8 @@
+- Peanut Butter
+- Jellies / Jams
+- Mixed Nuts Lightly Salted
+- Corn
+- Peas
+- Green Beans
+- Potatoes
+- Veggie Pasta

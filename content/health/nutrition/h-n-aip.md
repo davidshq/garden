@@ -1,5 +1,8 @@
 ---
 title: Autoimmune Protocol
+tags:
+  - relationships
+  - autoimmune
 ---
 
 # Allowed Foods

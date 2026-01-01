@@ -1,0 +1,12 @@
+- Apples
+- Bananas
+- Blueberries
+- Carrots
+- Celery
+- Clementines
+- Grapes
+- Oranges
+- Strawberries
+- Watermelon
+
+- Fruit Leather
