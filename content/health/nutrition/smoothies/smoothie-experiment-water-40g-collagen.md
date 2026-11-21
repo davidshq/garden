@@ -44,6 +44,13 @@ weight from fluid volume. Do not use it to convert quantities or size a batch.
 
 ## Original working data and uncertainties
 
+The quantities suggest mixed or transitional measurements: avocado (1 cup) and
+lemon (0.5 cups) likely refer to pre-blended ingredients under the author's
+measurement convention. Banana retains "2 items (2 cups?)", explicitly showing
+uncertainty between item and volume measures. Keep that uncertainty; do not
+silently choose one amount. The two cups of added water are separate from any
+water already in prepared mixtures.
+
 The column now labeled "Legacy ounces (unverified)" was originally headed
 "Fluid Ounces". Its original entries are unchanged.
 

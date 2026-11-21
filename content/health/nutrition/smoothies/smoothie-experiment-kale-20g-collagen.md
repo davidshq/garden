@@ -43,6 +43,12 @@ weight from fluid volume. Do not use it to convert quantities or size a batch.
 
 ## Original working data and uncertainties
 
+The quantities suggest mixed preparation states: banana is recorded as "2 items",
+while avocado (1 cup) and lemon (0.5 cups) use the author's volume convention for
+blended ingredients. Those two are likely pre-blended; the banana retains a
+whole-item count. This is less consistently a blended-volume recipe than the
+[[health/nutrition/smoothies/smoothie-experiment-spinach-mushroom-boost|spinach and mushroom boost version]].
+
 The column now labeled "Legacy ounces (unverified)" was originally headed
 "Fluid Ounces". Its original entries are unchanged.
 

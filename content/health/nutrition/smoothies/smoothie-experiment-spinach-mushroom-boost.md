@@ -33,13 +33,24 @@ Based on [[health/nutrition/smoothies/h-n-smoothie-recipe|the current recipe]]. 
 | [Blackberries](h-n-ingredients.md#Blackberries)             | .5 cup   | State not recorded; measure as written                 |
 | [Strawberries](h-n-ingredients.md#Strawberries)             | 1 cup    | State not recorded; measure as written                 |
 | [Raspberries](h-n-ingredients.md#Red%20Raspberries)         | .5 cups  | State not recorded; measure as written                 |
-| [Banana](h-n-ingredients.md#Bananas)                        | 1 cup    | State not recorded; measure as written                 |
-| [Avocado](h-n-ingredients.md#Avocado)                       | 1 cup    | State not recorded; measure as written                 |
-| [Lemon](h-n-ingredients.md#Lemons)                          | .5 cup   | State not recorded; measure as written                 |
+| [Banana](h-n-ingredients.md#Bananas)                        | 1 cup    | Likely pre-blended volume; inferred from cup measure   |
+| [Avocado](h-n-ingredients.md#Avocado)                       | 1 cup    | Likely pre-blended volume; inferred from cup measure   |
+| [Lemon](h-n-ingredients.md#Lemons)                          | .5 cup   | Likely pre-blended volume; inferred from cup measure   |
 | [Honey](h-n-ingredients.md#Honey)                           | 1 tbsp   | State not recorded; measure as written                 |
 | MUD/WTR Mushroom Boost                                      | 1 tsp    | State not recorded; measure as written                 |
 
 ## Differences and uncertainties
+
+This is likely a recipe using pre-blended produce: banana (1 cup), avocado
+(1 cup), and lemon (0.5 cup) all use volume rather than whole-item counts. That
+pattern matches the author's convention for measuring blended ingredients and
+makes this a strong match for the pre-blended "next smoothie recipe". The spinach
+substitution note also explicitly discusses frozen then blended spinach.
+
+The [[health/nutrition/smoothies/versions/smoothie-2025-12-refined|December pre-blending trials]]
+use the same kind of measurements. Their exact relationship to this version,
+the preparation states of other ingredients, and water already in the mixtures
+were not recorded.
 
 The former linked table is a [[health/nutrition/smoothies/smoothie-experiment-kale-20g-collagen|separate kale experiment]]:
 it has rainbow kale (0.5 cups), two bananas rather than one cup, two tablespoons

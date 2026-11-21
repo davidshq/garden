@@ -133,6 +133,13 @@ Certain ingredients can be excluded from our equations because they have a negli
 
 # Impactful Quantity Ingredients
 
+This table is another clue to a workflow using pre-blended ingredients: it follows
+the ingredient-and-water blending observations above and labels most per-batch
+produce amounts in fl oz. That context suggests prepared mixture volumes, but the
+table does not explicitly identify every ingredient's preparation state. It also
+mixes oz and fl oz, so those entries remain unresolved. This is a batch-planning
+snapshot, not an additional fully specified recipe.
+
 I've bolded the fresh ingredients that could be prepped and italicized liquid ingredients that cna be used to ensure the blender actually works.
 
 | Ingredient       | Per Batch | Batches | Total      | Qty |
