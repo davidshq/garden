@@ -1,3 +1,9 @@
+---
+title: Grains
+tags:
+  - nutrition
+---
+
 
 | Ingredient    | Quinoa(1)     | Rice |
 | ------------- | ------------- | ---- |

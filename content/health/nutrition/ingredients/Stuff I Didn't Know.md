@@ -1,0 +1,3 @@
+- [Inulin](https://www.webmd.com/vitamins-supplements/inulin) - fiber, often made from chicory root.
+	- Used in: Naked Boosted Smoothie Green Machine
+- 

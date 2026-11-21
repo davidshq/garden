@@ -1,0 +1,4 @@
+- 1 ounce = 28.35 grams
+- 1 ounce = 6 teaspoons
+- 1 ounce = 2 tablespoons
+- 1 cup = 8 ounces

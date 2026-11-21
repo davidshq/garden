@@ -114,6 +114,7 @@ For considerations on fresh vs frozen, raw vs cooked vegetables see. Dr. Fuhrman
 | Product                           | Size  | Cost  | Pr Oz | Updated |
 | --------------------------------- | ----- | ----- | ----- | ------- |
 | Great Value Frozen Sliced Peaches | 16 oz | $2.86 | $0.18 | 12/4/25 |
+- [FoodData](https://fdc.nal.usda.gov/food-details/325430/nutrients)
 # Acai Berry
 | Product                                    | Size  | Cost  | Pr Oz | Updated |
 | ------------------------------------------ | ----- | ----- | ----- | ------- |

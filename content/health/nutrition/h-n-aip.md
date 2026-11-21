@@ -1,5 +1,5 @@
 ---
-title: Autoimmune Protocol
+title: Autoimmune Protocol Diet
 tags:
   - relationships
   - autoimmune
@@ -12,7 +12,9 @@ tags:
 - Bison
 - Bone Broth
 - Collagen Powder
+	- Note: this is not a complete protein.
 - Gelatin Powder
+	- Note: this is not a complete protein.
 - Poultry
 	- Chicken
 	- Duck

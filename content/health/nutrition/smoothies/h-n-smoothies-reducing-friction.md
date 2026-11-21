@@ -1,3 +1,11 @@
+---
+title: "Smoothies: Reducing Friction"
+tags:
+  - nutrition
+  - smoothies
+  - adhd
+---
+
 As someone with ADHD friction can be a major obstacle to completing tasks/projects.
 
 What is friction? Its anything that slows down the process, that adds complexity, that one finds unpleasant, etc. The more friction there is the less likely one is to complete the task.
