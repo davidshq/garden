@@ -6,7 +6,7 @@ tags:
   - smoothies
 ---
 Smooth
-This takes the [h-n-smoothie-recipe](hn-smoothie-recipe) and modifies it for next time.
+This takes the [h-n-smoothie-recipe](h-n-smoothie-recipe) and modifies it for next time.
 
 # Ingredients
 1. Apple Juice - 1 cup

@@ -1,0 +1,27 @@
+name: Check garden
+
+on:
+  pull_request:
+    branches: [v4, v5]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npx quartz plugin install
+      - run: npx quartz plugin doctor
+      - run: npx tsc --noEmit
+      - run: npm test
+      - run: npx quartz build
