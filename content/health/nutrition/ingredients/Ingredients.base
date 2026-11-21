@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("health/nutrition/ingredients")
+    - 'note.type == "ingredient"'
+properties:
+  file.name:
+    displayName: Ingredient
+  note.category:
+    displayName: Category
+  note.smoothie_status:
+    displayName: Smoothie status
+views:
+  - type: table
+    name: Ingredients
+    order:
+      - file.name
+      - note.category
+      - note.smoothie_status
+    sort:
+      - property: file.name
+        direction: ASC

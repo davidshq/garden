@@ -1,0 +1,55 @@
+filters:
+  and:
+    - file.inFolder("health/nutrition/smoothies")
+    - 'note.type == "recipe"'
+    - 'note.recipe_group == "smoothie"'
+properties:
+  file.name:
+    displayName: Recipe
+  note.status:
+    displayName: Status
+  note.date:
+    displayName: Recipe date
+views:
+  - type: table
+    name: Current
+    filters:
+      and:
+        - 'note.status == "current"'
+    order:
+      - file.name
+      - note.status
+      - note.date
+    sort:
+      - property: note.date
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Experimental
+    filters:
+      and:
+        - 'note.status == "experimental"'
+    order:
+      - file.name
+      - note.status
+      - note.date
+    sort:
+      - property: note.date
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Historical
+    filters:
+      and:
+        - 'note.status == "historical"'
+    order:
+      - file.name
+      - note.status
+      - note.date
+    sort:
+      - property: note.date
+        direction: DESC
+      - property: file.name
+        direction: ASC
