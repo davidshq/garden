@@ -6,7 +6,7 @@ tags:
 
 I'm not claiming these ingredients are amazing, just sharing what I use / am considering.
 
-The [[health/nutrition/ingredients/Ingredients.base|Ingredients Base]] lists the shared ingredient pilot. Other ingredients remain on this page until reusable notes would help.
+The [[health/nutrition/ingredients/Ingredients.base|Ingredients Base]] lists shared ingredient notes with Tried, Candidates, and Deferred views. See [[health/nutrition/smoothies/h-n-potential-ingredients|Potential Smoothie Ingredients]] for candidate and deferred ingredients. Other ingredients remain on this page until reusable notes would help.
 
 For considerations on fresh vs frozen, raw vs cooked vegetables see. Dr. Fuhrman's [Five things you need to know about cooked vs raw vegetables](https://www.drfuhrman.com/blog/240/five-things-you-need-to-know-about-cooked-vs-raw-vegetables-plus-recipes) (2022).
 

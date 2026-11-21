@@ -19,3 +19,39 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Tried
+    filters:
+      and:
+        - 'note.smoothie_status == "tried"'
+    order:
+      - file.name
+      - note.category
+      - note.smoothie_status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Candidates
+    filters:
+      and:
+        - 'note.smoothie_status == "candidate"'
+    order:
+      - file.name
+      - note.category
+      - note.smoothie_status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Deferred
+    filters:
+      and:
+        - 'note.smoothie_status == "deferred"'
+    order:
+      - file.name
+      - note.category
+      - note.smoothie_status
+    sort:
+      - property: file.name
+        direction: ASC
